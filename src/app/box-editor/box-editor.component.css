@@ -1,0 +1,8 @@
+#image {
+    width: 250px;
+    height: 100px;
+}
+
+.frame {
+    border: 1px solid blue;
+}
